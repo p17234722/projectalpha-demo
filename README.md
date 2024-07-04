@@ -1,3 +1,4 @@
 # projectalpha-demo
-This is just for demo
-Author is Nik
+This is just for demo.
+<br>
+Author is Nik.
